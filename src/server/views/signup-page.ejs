@@ -1,0 +1,16 @@
+<%- include("./header", {
+    filename: "/public/css/auth.css",
+    title: "Signup"
+}) %>
+    <div class="auth">
+        <div class="auth-title">Singup</div>
+        <div class="auth-error-message"><%= message %> </div>
+        <form action="/signup" method="post" class="auth-form">
+            <input type="text" name="username" class="auth-form-input auth-form-item" placeholder="Username">
+            <input type="password" name="password" class="auth-form-input auth-form-item" placeholder="Password">
+            <input type="password" name="rpassword" class="auth-form-input auth-form-item" placeholder="Confirm password">
+            <button class="auth-form-button auth-form-item">sign up</button>
+        </form>
+        <div class="auth-link">Already have an account? <a href="/login">log in</a></div>
+    </div>
+<%- include("./footer") %>

@@ -1,0 +1,197 @@
+{
+    "pepperoni": {
+        "name": {
+            "english": "Pepperoni",
+            "russia": "Пепперони",
+            "spain": "Pepperoni"
+        },
+        "description": {
+            "english": "Classic. Everyone knows her.",
+            "russia": "Классика. Каждый знает её.",
+            "spain": "Obras clasicas. Todos la conocen."
+        },
+        "cost": "not sold"
+    },
+    "farmhouse": {
+        "name": {
+            "english": "Farmhouse",
+            "russia": "Фермерская",
+            "spain": "De granjero"
+        },
+        "description": {
+            "english": "Pizza for getting a taste of village life.",
+            "russia": "Пицца для получения вкуса деревенской жизни.",
+            "spain": "Pizza para obtenerun sabor de la vida del pueblo."
+        },
+        "cost": 50
+    },
+    "margaret": {
+        "name": {
+            "english": "Margaret",
+            "russia": "Маргарита",
+            "spain": "Margarita"
+        },
+        "description": {
+            "english": "Who doesn't know this pizza?",
+            "russia": "Кто не знает эту пиццу?",
+            "spain": "Quien no conoce esta pizza?"
+        },
+        "cost": 150
+    },
+    "cheese": {
+        "name": {
+            "english": "Cheese",
+            "russia": "Сырная",
+            "spain": "De queso"
+        },
+        "description": {
+            "english": "Cheese lovers will like this pizza.",
+            "russia": "Любителям сыра придется по вкусу эта пицца.",
+            "spain": "Los amantes del queso tendran que probar esta pizza."
+        },
+        "cost": 300
+    },
+    "spice": {
+        "name": {
+            "english": "Spice",
+            "russia": "Спайси",
+            "spain": "Spicey"
+        },
+        "description": {
+            "english": "Ahhh! Hot! Hot jalapeno pepper will surprise you.",
+            "russia": "Аааа! Горячо! Острый перец халапеньо удивит тебя.",
+            "spain": "Ahh! Caliente! Los jalapenos picantes te sorprenderan."
+        },
+        "cost": 2000
+    },
+    "tuscany": {
+        "name": {
+            "english": "Tuscany",
+            "russia": "Тоскана",
+            "spain": "Toscana"
+        },
+        "description": {
+            "english": "A taste from Florence. It will cover the Renaissance.",
+            "russia": "Вкус из Флоренции. Она накроет эпохой возрождения.",
+            "spain": "Sabor de Florencia. Cubrira el renacimiento."
+        },
+        "cost": 700
+    },
+    "carbonara": {
+        "name": {
+            "english": "Carbonara",
+            "russia": "Карбонара",
+            "spain": "Carbonara"
+        },
+        "description": {
+            "english": "Standard ingredients - delicious pizza.",
+            "russia": "Стандартные ингредиенты - вкусная пицца.",
+            "spain": "Los ingredientes estandar son deliciosas pizzas."
+        },
+        "cost": 300
+    },
+    "belarusian": {
+        "name": {
+            "english": "Belarusian",
+            "russia": "Белорусская",
+            "spain": "Bielorrusa"
+        },
+        "description": {
+            "english": "The main ingredient of this pizza is potatoes.",
+            "russia": "Главным ингредиентом этой пиццы является картофель.",
+            "spain": "El ingrediente principal de esta pizza es la Papa."
+        },
+        "cost": 800
+    },
+    "hawaiian": {
+        "name": {
+            "english": "hawaiian",
+            "russia": "Гавайская",
+            "spain": "Hawaiana"
+        },
+        "description": {
+            "english": "There are pineapples there, it's terrible!",
+            "russia": "Там есть ананасы, ужасно!",
+            "spain": "Hay pinas, horrible!"
+        },
+        "cost": 300
+    },
+    "mexican": {
+        "name": {
+            "english": "Mexican",
+            "russia": "Мексиканская",
+            "spain": "Mexicana"
+        },
+        "description": {
+            "english": "Spicey has a worthy rival.",
+            "russia": "У Спайси появился достойный соперник.",
+            "spain": "Spicey tiene un rival digno."
+        },
+        "cost": 1200
+    },
+    "pumpkin": {
+        "name": {
+            "english": "Pumpkin",
+            "russia": "Тыквенная",
+            "spain": "De calabaza"
+        },
+        "description": {
+            "english": "Yes! It's not pizza, but it's definitely not worse.",
+            "russia": "Да! Это не пицца, но точно не хуже.",
+            "spain": "SI! No es pizza, pero definitivamente no es peor."
+        },
+        "cost": 600
+    },
+    "italian": {
+        "name": {
+            "english": "Italian",
+            "russia": "Итальянская",
+            "spain": "Italiana"
+        },
+        "description": {
+            "english": "Real, Neapolitan pizza.",
+            "russia": "Настоящая, Неаполитанская пицца.",
+            "spain": "Autentica pizza Napolitana."
+        },
+        "cost": 1500
+    },
+    "gold": {
+        "name": {
+            "english": "Golden",
+            "russia": "Золотая",
+            "spain": "De oro"
+        },
+        "description": {
+            "english": "Well, very expensive.",
+            "russia": "До-дорого пиздец.",
+            "spain": "Bueno, muy caro."
+        },
+        "cost": 3000
+    },
+    "bavarian": {
+        "name": {
+            "english": "Bavarian",
+            "russia": "Баварская",
+            "spain": "Bavaro"
+        },
+        "description": {
+            "english": "ZHVP didn't come up with a description.",
+            "russia": "ЖВП не придумал описание.",
+            "spain": "ZHVP no se le ocurrio una descripcion."
+        },
+        "cost": 1500
+    },
+    "chicken": {
+        "name": {
+            "english": "Chicken Ranch",
+            "russia": "Чикен ранч",
+            "spain": "Chicken Ranch"
+        },
+        "description": {
+            "english": "6 pizzas and cola.",
+            "russia": "6 пицц и кола.",
+            "spain": "6 pizzas y cola."
+        },
+        "cost": 700
+    }
+}

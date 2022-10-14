@@ -1,0 +1,34 @@
+#app {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+
+    padding-top: 32px;
+}
+
+.error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error-image {
+    margin-bottom: 32px;
+}
+
+.error-code {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.error-message {
+    font-size: 1.125rem;
+    margin-bottom: 16px;
+}
+
+.error-link > a {
+    font-size: 1.125rem;
+    text-decoration: none;
+}

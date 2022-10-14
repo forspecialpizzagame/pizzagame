@@ -1,0 +1,93 @@
+{
+    "diamond": {
+        "name": {
+            "english": "Diamond",
+            "russia": "Алмаз",
+            "spain": "Diamante"
+        },
+        "description": {
+            "english": "Not a single tooth will bite through this pizza.",
+            "russia": "Ни один зуб не прокусит эту пиццу.",
+            "spain": "Ningun diente mordera esta pizza."
+        },
+        "cost": "not sold"
+    },
+    "ruby": {
+        "name": {
+            "english": "Ruby",
+            "russia": "Рубин",
+            "spain": "Rubi"
+        },
+        "description": {
+            "english": "Is this pizza definitely not fake?",
+            "russia": "Эта пицца точно не подделка?",
+            "spain": "Esta pizza no es falsa?"
+        },
+        "cost": "not sold"
+    },
+    "emerald": {
+        "name": {
+            "english": "Emerald",
+            "russia": "Изумруд",
+            "spain": "Esmeralda"
+        },
+        "description": {
+            "english": "Hmm hmm... Hmm.",
+            "russia": "Хмм хм... Хммм.",
+            "spain": "Hmm hmm... Hmmm."
+        },
+        "cost": "not sold"
+    },
+    "amethyst": {
+        "name": {
+            "english": "Amethyst",
+            "russia": "Аметист",
+            "spain": "Amatista"
+        },
+        "description": {
+            "english": "Gutter...",
+            "russia": "Желоба...",
+            "spain": "Canal..."
+        },
+        "cost": "not sold"
+    },
+    "jade": {
+        "name": {
+            "english": "Jade",
+            "russia": "Нефрит",
+            "spain": "Jade"
+        },
+        "description": {
+            "english": "Straight from the Chinese palaces.",
+            "russia": "Прямиком из китайских дворцов.",
+            "spain": "Directamente de los palacios chinos."
+        },
+        "cost": "not sold"
+    },
+    "topaz": {
+        "name": {
+            "english": "Topaz",
+            "russia": "Топаз",
+            "spain": "Topacio"
+        },
+        "description": {
+            "english": "No! It\\'s not caramel.",
+            "russia": "Нет! Это не карамель.",
+            "spain": "No! No es caramelo."
+        },
+        "cost": "not sold"
+    },
+    "amber": {
+        "name": {
+            "english": "Amber",
+            "russia": "Янтарь",
+            "spain": "Ambar"
+        },
+        "description": {
+            "english": "It was once the resin of a tree.",
+            "russia": "Когда-то она была смолой дерева.",
+            "spain": "Una vez fue resina de madera."
+        },
+        "cost": "not sold"
+    }
+}

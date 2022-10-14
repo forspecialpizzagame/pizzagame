@@ -1,0 +1,11 @@
+<%- include("./header", { 
+    filename: "/public/css/error.css",
+    title: `Error`
+}) %>
+    <div class="error">
+        <img src="/public/assets/images/big-rotten-pizza.png" alt="" class="error-image">
+        <div class="error-code"><%= code %> </div>
+        <div class="error-message"><%= message  %> </div>
+        <div class="error-link"><a href=<%= linkHref %>><%= linkTitle %> </a></div>
+    </div>
+<%- include("./footer") %> 

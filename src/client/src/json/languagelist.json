@@ -1,0 +1,32 @@
+{
+    "click": {
+        "english": "Click!",
+        "russia": "Кликни!",
+        "spain": "Haz clic!"
+    },
+    "loading resources": {
+        "english": "Loading resources...",
+        "russia": "Загрузка ресурсов...",
+        "spain": "Carga de recursos..."
+    },
+    "loading data": {
+        "english": "Loading data...",
+        "russia": "Загрузка данных...",
+        "spain": "Carga de datos..."
+    },
+    "data load error": {
+        "english": "Data load error",
+        "russia": "Ошибка загрузки данных",
+        "spain": "Error de carga de datos"
+    },
+    "developer": {
+        "english": "Developer",
+        "russia": "Разработчик",
+        "spain": "Elaborador"
+    },
+    "testers": {
+        "english": "Testers",
+        "russia": "Тестеры",
+        "spain": "Probadores"
+    }
+}

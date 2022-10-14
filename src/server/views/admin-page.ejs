@@ -1,0 +1,15 @@
+<%- include("./header", { 
+    filename: "/public/css/admin.css",
+    title: `Admin panel`
+}) %>
+    <div class="admin">
+        <form action="/admin" method="post" class="admin-form">
+            <input name="command" type="text" class="admin-form-input" placeholder="Command">
+            <input name="password" type="password" class="admin-form-input" placeholder="Password">
+            <button class="admin-form-button">post</button>
+        </form>
+        <div class="admin-response">
+            <textarea class="admin-response-textarea"><%= response  %></textarea>
+        </div>
+    </div>
+<%- include("./footer") %>
